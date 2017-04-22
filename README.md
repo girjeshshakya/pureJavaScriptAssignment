@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+A simple blog page using only javaScripts
 
 ## Getting Started
 
@@ -8,11 +8,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+install a local server for hosting or fetching Json file
 
-```
-Give examples
-```
+using npm it can be installed
+npm install http-server -g
+http-server [path] [options] or http-server ./
+
 
 ### Installing
 
