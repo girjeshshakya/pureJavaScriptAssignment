@@ -42,7 +42,6 @@ function fillpage(data) {
 
 
 function show(index) {
-    console.log("you are here");
     document.getElementById("description").innerHTML = peopledata[index].name + peopledata[index].Description;
     document.getElementById("prof-pic").src = "./public/img/"+peopledata[index].img;
     document.getElementById("rating").src = "./public/img/" + peopledata[index].rating + "rating.png";
