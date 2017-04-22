@@ -11,7 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 install a local server for hosting or fetching Json file
 
 using npm it can be installed
+
 npm install http-server -g
+
 http-server [path] [options] or http-server ./
 
 
